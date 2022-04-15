@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 Tools
-I primarily use c++
+- I primarily use c++
 
 <!---
 jonotero/jonotero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
