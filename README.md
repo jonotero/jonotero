@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jonotero
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 
 <h3>Tools</h3>
 - I primarily use c++
