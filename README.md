@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
 
 <h3>Tools</h3>
-- I primarily use c++
+- I use c, c++, Javascript, Python, C# and JARU
 <p></p>
 <p dir="auto">📫 You can contact me via this <a href="mailto:jonotero@navirama.es">mail</a> :)</p>
 <!---
